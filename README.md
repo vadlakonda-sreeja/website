@@ -13,18 +13,29 @@ The project will employ a user-centered design approach, involving stakeholder s
 
 ## Expected Outcome: 
 The expected outcome of this project is a dynamic college website that:
-Increases student engagement and participation by 30%.
-Improves learning outcomes by 25%.
-Enhances user experience and satisfaction by 40%.
-Provides personalized services and resources to students, faculty, and staff.
-Increases website traffic and online visibility by 50%.
+
+Increases student engagement and participation by 30%
+
+Improves learning outcomes by 25%
+
+Enhances user experience and satisfaction by 40%
+
+Provides personalized services and resources to students, faculty, and staff
+
+Increases website traffic and online visibility by 50%
 
 ## Keywords: 
-College website.
-student engagement.
-learning experience.
-user-centered design. 
-personalized services.
-accessibility.
-SEO.
+College website
+
+student engagement
+
+learning experience
+
+user-centered design
+
+personalized services
+
+accessibility
+
+SEO
 
