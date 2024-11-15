@@ -12,30 +12,34 @@ The objective of this project is to design and develop a dynamic college website
 The project will employ a user-centered design approach, involving stakeholder surveys, focus groups, and usability testing to identify the needs and preferences of the college community. A responsive and mobile-friendly website will be developed using modern web technologies, incorporating features such as personalized dashboards, interactive learning tools, and social media integration. The website will also be optimized for accessibility and search engine optimization (SEO).
 
 ## Expected Outcome: 
-The expected outcome of this project is a dynamic college website that:
+	The expected outcome of this project is a dynamic college website that:
 
-Increases student engagement and participation by 30%
+•	Increases student engagement and participation by 30%
 
-Improves learning outcomes by 25%
+•	Improves learning outcomes by 25%
 
-Enhances user experience and satisfaction by 40%
+•	Enhances user experience and satisfaction by 40%
 
-Provides personalized services and resources to students, faculty, and staff
+•	Provides personalized services and resources to students, faculty, and staff
 
-Increases website traffic and online visibility by 50%
+•	Increases website traffic and online visibility by 50%
 
 ## Keywords: 
-College website
+•	College website 
 
-student engagement
+•	student engagement
 
-learning experience
+•	 learning experience
 
-user-centered design
+•	user-centered design
 
-personalized services
+•	personalized services
 
-accessibility
+•	 accessibility
 
-SEO
+•	 SEO
+
+
+
+
 
